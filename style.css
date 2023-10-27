@@ -1,0 +1,21 @@
+body{color:#283747;
+font-family: Times;
+background-color:#F6D7D2;}
+
+header{background-color:#D98880;
+font-family:Arial;
+}
+
+div{background-color:#F6D7D2;
+display:block;
+ width:150px;}
+
+img{background-color:#F6D7D2;
+float: right;
+padding:10px;
+border: 15px solid #D98880}
+
+.navBar a{text-decoration:none; 
+margin: 15px;
+ }
+
